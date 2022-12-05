@@ -6,3 +6,4 @@
 # Display the last 10 lines of /etc/passwd
 # Display the first 10 lines of /etc/passwd
 # Display the third line of iacta
+# Display content list of 'ls_cwd_content 
