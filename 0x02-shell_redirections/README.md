@@ -1,3 +1,4 @@
 #!/bin/bash
 # Printing Hello wolrd
-# Display confused smily 
+# Display confused smil
+# Display /etc/passwd file content 
