@@ -17,3 +17,4 @@
 # Counting patterns in a file
 # pattern containing root and 3 lines after them
 # Display lines that do not contain pattern bin
+# Display lines of a file starting with a letter
