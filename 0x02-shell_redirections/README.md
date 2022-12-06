@@ -7,4 +7,5 @@
 # Display the first 10 lines of /etc/passwd
 # Display the third line of iacta
 # Display content list of 'ls_cwd_content
-# Duplicate the last line of iacta 
+# Duplicate the last line of iacta
+# Deleting .js files from workinf directory & its subdirectories 
