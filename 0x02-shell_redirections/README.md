@@ -13,3 +13,4 @@
 # Count the number odf directories and subdirectories
 # Newest 10 files in directory
 # Sorted unique output
+# display line containing pattern
