@@ -12,3 +12,4 @@
 # Creating file with special charactors on name
 # Count the number odf directories and subdirectories
 # Newest 10 files in directory
+# Sorted unique output
