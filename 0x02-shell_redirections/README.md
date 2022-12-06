@@ -10,3 +10,4 @@
 # Duplicate the last line of iacta
 # Deleting .js files from workinf directory & its subdirectories
 # Creating file with special charactors on name
+# Count the number odf directories and subdirectories
