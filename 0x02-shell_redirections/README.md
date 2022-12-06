@@ -21,3 +21,4 @@
 # Replace A and c with Z and e respectively
 # remove letters C & c from input
 # Reverse input
+# Display all users and their home directories
