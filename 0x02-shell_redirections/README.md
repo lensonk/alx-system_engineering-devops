@@ -22,3 +22,4 @@
 # remove letters C & c from input
 # Reverse input
 # Display all users and their home directories
+# Delete empty files and folders
