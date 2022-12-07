@@ -6,3 +6,4 @@
 # List global variabls
 # List all variables & functions
 # Create local variable BEST=School
+# Create global variable BEST=School
