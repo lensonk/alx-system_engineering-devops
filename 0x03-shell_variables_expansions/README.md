@@ -8,3 +8,4 @@
 # Create local variable BEST=School
 # Create global variable BEST=School
 # Addition of 128 & global variable
+# Results of pewer/divide
