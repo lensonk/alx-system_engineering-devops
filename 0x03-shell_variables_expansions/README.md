@@ -10,3 +10,4 @@
 # Addition of 128 & global variable
 # Results of pewer/divide
 # Love power breath
+# Binary to decimal
