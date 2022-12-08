@@ -12,3 +12,5 @@
 # Love power breath
 # Binary to decimal
 # Combinations
+# print 2 decimal places
+# Decimal to hexadecimal
