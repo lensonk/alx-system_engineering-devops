@@ -14,3 +14,4 @@
 # Combinations
 # print 2 decimal places
 # Decimal to hexadecimal
+# Add numbers in different bases
